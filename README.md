@@ -2,7 +2,9 @@
    
 Mission:	Final Project            
 Author:		Caiwei Li
+
             Yuxin Man
+
 Date:		05/16/2016
 
 Below, we explained how to run our project:
